@@ -51,15 +51,15 @@ Main experimental and molecular approaches in the paper:
 
 # 3a. Three questions for further analysis
 
-**Q1. Are the molecular effects of lncRNA knockdown cell-type
-specific?**
+<u>**Q1. Are the molecular effects of lncRNA knockdown cell-type
+specific?**</u>
 
 Many lncRNAs express cell-type specific regulatory roles. In the paper,
 the authors used fibroblasts, which revealed some functions, but
 additional targets might emerge in other cell lines, for example, stem
 cells.
 
-**Q2. lncRNAs regulate transcription via cis/trans manner?**
+<u>**Q2. lncRNAs regulate transcription via cis/trans manner?**</u>
 
 Knockdow lncRNAs resulted in transcriptional change. How lncRNAs
 regulate the transcription of their target genes in term of cis (via
@@ -67,8 +67,8 @@ promoter/enhancer modulation to regulate nearby genes) or trans (by
 interacting with chromatin modifiers or transcription factors to
 regulate distant genes)
 
-**Q3. Do lncRNA knockdowns produce heterogeneous transcription stats
-that bulk CAGE misses?**
+<u>**Q3. Do lncRNA knockdowns produce heterogeneous transcription stats
+that bulk CAGE misses?**</u>
 
 Single-cell profiling after knockdown will reveal heterogeneous
 responses.
