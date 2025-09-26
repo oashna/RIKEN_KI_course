@@ -18,7 +18,13 @@ ratio <- function(x) {
   
   return(m_mean / m_median)
 }
+
+# Example use
+v <- c(1,3,6,8,12,16)
+ratio(v)
 ```
+
+    ## [1] 1.095238
 
 2.Write a function that ignores the lowest and the highest value from a
 given vector and calculate the mean
@@ -38,7 +44,13 @@ trim_mean <- function(x) {
   # Return mean of the remaining values
   return(mean(x_trimmed, na.rm = TRUE))
 }
+
+# Example use
+v <- c(1,3,6,8,12,16)
+trim_mean(v)
 ```
+
+    ## [1] 7.25
 
 3.Why, how and when not to use pipes?
 

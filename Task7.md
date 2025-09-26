@@ -43,9 +43,14 @@ ggplot(data1, aes(x=length, fill=species)) +
 ![](Task7_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
 **b-c.** Comparison using box plots. Save plot to pdf, png, and svg.
-When to use pdf, png and svg: - pdf: for printing, publications,
-submitting to journal - png: for presentation (making PowerPoint
-slides), websites - svg: for editing figure in vector graphics software
+
+When to use pdf, png and svg:
+
+\- pdf: for printing, publications, submitting to journal
+
+\- png: for presentation (making PowerPoint slides), websites
+
+\- svg: for editing figure in vector graphics software
 
 ``` r
 p <- ggplot(data1, aes(x = species, y = length, fill = species)) +
